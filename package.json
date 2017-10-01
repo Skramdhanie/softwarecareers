@@ -1,0 +1,35 @@
+{
+    "title": "Software Careers",
+    "name": "software_careers",
+    "version": "0.0.1",
+    "description": "A website illustrating various  software careers",
+    "keywords": [
+        "software",
+        "technology",
+        "careers"
+    ],
+    "homepage": "",
+    "bugs": {
+        "url": "",
+        "email": ""
+    },
+    "license": "MIT",
+    "author": "Soren Ramdhanie",
+    "contributors": [
+        "Vincent Ramdhanie (http://vincentramdhanie.com/)"
+    ],
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": {
+        "bootstrap": "^4.0.0-beta",
+        "font-awesome": "^4.7.0",
+        "jquery": "^3.2.1",
+        "popper.js": "1.12.3"
+    },
+    "devDependencies": {
+        "browser-sync": "2.18.13",
+        "gulp": "^3.9.1"
+    }
+}
